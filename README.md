@@ -10,3 +10,5 @@ Contains 3 modules-
 1.Encryption/Decryption(mostly JAVA)
 2.File hiding(using command line)
 3.Backup(also command line)
+
+Special Thanks to Simrandeep Singh
